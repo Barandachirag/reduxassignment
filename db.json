@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "chirag",
+      "age": "27",
+      "salary": "160000",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "age": "24",
+      "salary": "24000",
+      "id": 3
+    },
+    {
+      "name": "virat",
+      "age": "34",
+      "salary": "1000000",
+      "id": 4
+    }
+  ]
+}
